@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(205, 223, 231);
+    display: flex; 
+}
+   
+.container{
+    display: flex;            
+    flex-direction: column; 
+                    
+    
+}
+
+nav{
+    
+    display: flex; 
+    flex-direction: row;
+}
+ 
+div div{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: bolder;            
+   height: 40px;         
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+font-size: 20px;
+}
+
+h3{
+font-size: 15px;
+}
+
+.button{            
+    border-radius: 2px;
+    width: 1rem;
+}
